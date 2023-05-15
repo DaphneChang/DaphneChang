@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+https://daphnechang.github.io/about/
+
 - 🔭 I’m currently working on Pinduoduo.com
 - 🌱 I’m currently learning javascript, React, node
 - 👯 I’m looking to collaborate on ...
